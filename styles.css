@@ -1,0 +1,13 @@
+body {
+}
+
+.app-container {
+  background: orange;
+  width: 80vw;
+  height: 80vh;
+}
+
+.app-result {
+  width: 80vw;
+  height: 80vh;
+}
