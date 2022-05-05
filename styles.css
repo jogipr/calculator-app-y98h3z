@@ -3,7 +3,8 @@ body {
 
 .app-container {
   background: orange;
-  width: 50vw;
+  width: 60vw;
+  max-width: 400px;
   height: 80%;
   padding-top: 20px;
 }
